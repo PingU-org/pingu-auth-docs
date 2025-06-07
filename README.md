@@ -1,0 +1,1 @@
+# pingu-auth-docs
